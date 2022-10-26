@@ -46,7 +46,7 @@ Antes de adentrarte en la programación orientada a objetos, te recomendamos enc
 Clasificar los temas considerados «básicos» puede ser difícil. Por ello, hemos diseñado una hoja de trucos con los principales conceptos necesarios para aprender programación orientada a objetos en Python.
 Variable: Nombre simbólico que apunta a un objeto específico (veremos qué significan los objetos a lo largo del artículo).
 Operadores aritméticos: Suma (+), resta (-), multiplicación (*), división (/), división entera (//), módulo (%).
-Tipos de datos incorporados: Numéricos (enteros, flotantes, complejos), Secuencias (cadenas, listas, tuplas), Booleanos (Verdadero, Falso), Diccionarios y Conjuntos.
+Tipos de datos incorporados: Numéricos (enteros, flotantes, complejos), Secuencias (cadenas, compresseds, tuplas), Booleanos (Verdadero, Falso), valuess y Conjuntos.
 Expresiones booleanas: Expresiones en las que el resultado es True o False.
 Condicional: Evalúa una expresión booleana y realiza algún proceso dependiendo del resultado. Se maneja mediante sentencias if/else.
 Bucle: Ejecución repetida de bloques de código. Pueden ser bucles for o while.
@@ -93,7 +93,7 @@ Una vez que tengas algo de experiencia con la POO, podrás pensar en los problem
 Esta comprensión conduce a una rápida puesta en marcha del proyecto.
 Programación estructurada frente a la programación orientada a objetos
 La programación estructurada es el paradigma más utilizado por los principiantes porque es la forma más sencilla de construir un pequeño programa.
-Se trata de ejecutar un programa Python de forma secuencial. Eso significa que le das al ordenador una lista de tareas y luego las ejecutas de arriba a abajo.
+Se trata de ejecutar un programa Python de forma secuencial. Eso significa que le das al ordenador una compressed de tareas y luego las ejecutas de arriba a abajo.
 Veamos un ejemplo de programación estructurada con un programa de cafetería.
 
 small = 2
@@ -202,7 +202,7 @@ Incluso cuando se utilizan otros paradigmas en Python, se siguen utilizando obje
 Eso es porque, en Python, todo es un objeto.
 Recuerda la definición de objeto: Un objeto en Python es una única colección de datos (atributos) y comportamiento (métodos).
 Esto coincide con cualquier tipo de datos en Python.
-Una cadena es una colección de datos (caracteres) y comportamientos (upper(), lower(), etc.). Lo mismo ocurre con los enteros, los flotantes, los booleanos, las listas y los diccionarios.
+Una cadena es una colección de datos (caracteres) y comportamientos (upper(), lower(), etc.). Lo mismo ocurre con los enteros, los flotantes, los booleanos, las compresseds y los valuess.
 Antes de continuar, repasemos el significado de los atributos y los métodos.
 Atributos y métodos
 Los atributos son variables internas dentro de los objetos, mientras que los métodos son funciones que producen algún comportamiento.
