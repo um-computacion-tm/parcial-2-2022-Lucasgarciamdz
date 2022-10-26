@@ -9,3 +9,6 @@ similar-code:
        threshold: 3
 exclude_patterns:
 - "test/"
+- "/Users/mymac/Documents/computacion 2022 github personal/parcial-2-2022-Lucasgarciamdz/test/*"
+exclude_paths:
+- "test.py"
