@@ -8,4 +8,4 @@ similar-code:
     config:
        threshold: 3
 exclude_patterns:
-- "tests/"
+- "test/"
